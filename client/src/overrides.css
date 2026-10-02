@@ -1,0 +1,5 @@
+.hero-image-frame img,.studio-photo img,.work-art img{object-fit:cover;object-position:center;mix-blend-mode:normal;padding:0}
+.hero-image-frame .image-caption a{color:inherit;font-size:inherit;letter-spacing:inherit}
+.work-artist{display:flex;align-items:center;flex-wrap:wrap;gap:4px 8px}
+.work-artist .photo-credit-link{margin-left:auto;color:var(--orange);font-size:7px;letter-spacing:.1em;text-decoration:none}
+.photo-credit{z-index:2;background:#f4f0e8e8;padding:8px 10px;text-decoration:none}

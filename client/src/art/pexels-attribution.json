@@ -1,0 +1,12 @@
+{
+  "license": "Pexels License — https://www.pexels.com/license/",
+  "note": "Stock tattoo photographs for concept/editorial mockup only; not Maison Ink client work. Replace these with the studio's own approved work photographs before claiming them as a portfolio.",
+  "photos": [
+    { "id": 7005673, "photographer": "Shkraba Anthony", "page": "https://www.pexels.com/photo/a-tattoo-artist-working-on-a-client-7005673/", "alt": "Tattoo artist working on a client in a studio" },
+    { "id": 2183131, "photographer": "Kevin Bidwell", "page": "https://www.pexels.com/photo/photo-of-left-arm-with-tattoo-2183131/", "alt": "Colorful tattoo sleeve with floral and illustrative elements" },
+    { "id": 2126124, "photographer": "Brett Sayles", "page": "https://www.pexels.com/photo/close-up-photo-of-person-with-tattoos-2126124/", "alt": "Close view of a colorful tattooed sleeve" },
+    { "id": 2134085, "photographer": "Brett Sayles", "page": "https://www.pexels.com/photo/koi-full-sleeved-tattoo-2134085/", "alt": "Japanese-inspired koi tattoo sleeve" },
+    { "id": 3295586, "photographer": "Jan Kopřiva", "page": "https://www.pexels.com/photo/close-up-shot-of-tattoo-on-a-person-s-arm-3295586/", "alt": "Detailed floral tattoo on an arm" },
+    { "id": 13304597, "photographer": "Вячеслав Ткачёв", "page": "https://www.pexels.com/photo/a-close-up-shot-of-a-woman-s-back-13304597/", "alt": "Back tattoo detail outdoors" }
+  ]
+}
